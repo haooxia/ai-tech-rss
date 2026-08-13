@@ -5,7 +5,7 @@
     <link>https://github.com/haooxia/ai-tech-rss</link>
     <description>ChatGPT 每日生成的 AI 技术情报简报，聚焦 AI 模型、端侧推理、移动端部署与模型优化。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 13 Aug 2026 09:25:50 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 11:05:00 +0800</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/haooxia/ai-tech-rss/main/feed.xml" rel="self" type="application/rss+xml" />
 
     <item>
@@ -13,7 +13,7 @@
       <link>https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-13.md</link>
       <guid isPermaLink="true">https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-13.md</guid>
       <pubDate>Thu, 13 Aug 2026 09:25:50 +0800</pubDate>
-      <description>高价值更新主要集中在端侧框架与运行时：LiteRT 的 Android 兼容性、低比特转换与加速器查询，LiteRT-LM EmbeddingEngine，MNN 的 DFlash、Qwen3-TTS 与 QNN，以及 llama.cpp Vulkan ternary 支持。</description>
+      <description>高价值更新主要集中在端侧框架与运行时：LiteRT 的 Android 兼容性、低比特转换与加速器查询，LiteRT-LM EmbeddingEngine，MNN 的 DFlash、Qwen3-TTS 与 QNN，以及 llama.cpp Vulkan ternary 支持。（点击链接查看详情）</description>
     </item>
 
     <item>
@@ -21,7 +21,7 @@
       <link>https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-12.md</link>
       <guid isPermaLink="true">https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-12.md</guid>
       <pubDate>Wed, 12 Aug 2026 23:52:35 +0800</pubDate>
-      <description>端侧框架与小模型更新：LiteRT-LM v0.16.0 正式发布并首次提供版本化 C API 预编译包，同时关注移动端部署与模型生态的重要变化。</description>
+      <description>端侧框架与小模型更新：LiteRT-LM v0.16.0 正式发布并首次提供版本化 C API 预编译包，同时关注移动端部署与模型生态的重要变化。（点击链接查看详情）</description>
     </item>
   </channel>
 </rss>
