@@ -16,12 +16,12 @@
 
 1. 每天生成过去 24 小时的重要 AI 技术动态。
 2. 简报保存为 `posts/YYYY-MM-DD.md`。
-3. 更新提交到 `main` 分支，并通过 GitHub Atom Feed 提供订阅。
+3. 更新提交到 `main` 分支，并同步维护 `feed.xml` 供 RSS 阅读器订阅。
 
-## Atom / RSS 订阅
+## RSS 订阅
 
 ```text
-https://github.com/haooxia/ai-tech-rss/commits/main.atom
+https://raw.githubusercontent.com/haooxia/ai-tech-rss/main/feed.xml
 ```
 
-可直接添加到支持 Atom / RSS 的阅读器中。Atom Feed 订阅的是 `main` 分支提交，完整简报正文位于 `posts/` 目录。
+可直接添加到支持 RSS 的阅读器中。每个条目对应当天的技术简报，点击后直接打开 `posts/YYYY-MM-DD.md` 完整正文。
