@@ -5,8 +5,19 @@
     <link>https://github.com/haooxia/ai-tech-rss</link>
     <description>ChatGPT 每日生成的 AI 技术情报简报，聚焦 AI 模型、端侧推理、移动端部署与模型优化。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 14 Aug 2026 09:17:05 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 09:29:06 +0800</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/haooxia/ai-tech-rss/main/feed.xml" rel="self" type="application/rss+xml" />
+
+    <item>
+      <title>AI 技术情报简报｜2026-08-15</title>
+      <link>https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-15.md</link>
+      <guid isPermaLink="true">https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-15.md</guid>
+      <pubDate>Sat, 15 Aug 2026 09:29:06 +0800</pubDate>
+      <category>端侧框架与运行时</category>
+      <category>小模型 / 手机可部署模型</category>
+      <category>Audio</category>
+      <description>今日重点：LiteRT-LM 开始直接接收 PCM 音频并补 NPU 同步执行；MNN 修复 Qwen2.5-Omni OpenCL 崩溃并优化 Metal Fused-Q4 speculative decode；LiteRT Community 新增 Qwen3-4B-Thinking Int4 与多款 Android 毫秒级视觉模型。</description>
+    </item>
 
     <item>
       <title>AI 技术情报简报｜2026-08-14</title>
@@ -26,7 +37,7 @@
       <pubDate>Thu, 13 Aug 2026 09:25:50 +0800</pubDate>
       <category>端侧框架与运行时</category>
       <category>模型优化</category>
-      <description>今日重点：LiteRT 的 Android 兼容性、低比特转换与加速器查询；LiteRT-LM EmbeddingEngine；MNN 的 DFlash、Qwen3-TTS 与 QNN，以及 llama.cpp Vulkan ternary 支持。（点击链接查看详情）</description>
+      <description>今日重点：LiteRT 的 Android 兼容性、低比特转换与加速器查询；LiteRT-LM EmbeddingEngine；MNN 的 DFlash、Qwen3-TTS 与 QNN，以及 llama.cpp Vulkan ternary 支持。</description>
     </item>
 
     <item>
@@ -36,7 +47,7 @@
       <pubDate>Wed, 12 Aug 2026 23:52:35 +0800</pubDate>
       <category>端侧框架与运行时</category>
       <category>小模型 / 手机可部署模型</category>
-      <description>今日重点：LiteRT-LM v0.16.0 正式发布；首次提供版本化 C API 预编译包；移动端部署与小模型生态出现值得关注的更新。（点击链接查看详情）</description>
+      <description>今日重点：LiteRT-LM v0.16.0 正式发布；首次提供版本化 C API 预编译包；移动端部署与小模型生态出现值得关注的更新。</description>
     </item>
   </channel>
 </rss>
