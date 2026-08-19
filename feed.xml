@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>AI Tech RSS</title>
     <link>https://github.com/haooxia/ai-tech-rss</link>
     <description>ChatGPT 每日生成的 AI 技术情报简报，聚焦 AI 模型、端侧推理、移动端部署与模型优化。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 18 Aug 2026 09:05:36 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 09:06:32 +0800</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/haooxia/ai-tech-rss/main/feed.xml" rel="self" type="application/rss+xml" />
-
+    <item>
+      <title>AI 技术情报简报｜2026-08-19</title>
+      <link>https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-19.md</link>
+      <guid isPermaLink="true">https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-19.md</guid>
+      <pubDate>Wed, 19 Aug 2026 09:06:32 +0800</pubDate>
+      <category>小模型 / 手机可部署模型</category>
+      <category>CLIP / 相册搜索</category>
+      <category>AI 行业热点</category>
+      <description>今日重点：LiteRT Community 发布 Granite 4.1-3B 的 LiteRT-LM 手机部署包；Sentence Transformers 6.0 新增 MultiVectorEncoder；OpenAI 因网络安全风险主动放缓前沿模型训练。</description>
+    </item>
     <item>
       <title>AI 技术情报简报｜2026-08-18</title>
       <link>https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-18.md</link>
@@ -16,7 +25,6 @@
       <category>AI 行业热点</category>
       <description>今日重点：A2A Protocol 转入 Agentic AI Foundation，与 MCP 等 agent 生态项目进入同一专门基金会体系。</description>
     </item>
-
     <item>
       <title>AI 技术情报简报｜2026-08-17</title>
       <link>https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-17.md</link>
@@ -26,7 +34,6 @@
       <category>小模型 / 手机可部署模型</category>
       <description>今日重点：LiteRT 修正 CompiledModel 的非 CPU 全量 delegation 判断；近 7 天替换候选中 Falcon-H1-1.5B-Deep-Instruct 的 LiteRT-LM 真机表现值得测试，但尚无手机 NPU 证据。</description>
     </item>
-
     <item>
       <title>AI 技术情报简报｜2026-08-16</title>
       <link>https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-16.md</link>
@@ -37,7 +44,6 @@
       <category>翻译</category>
       <description>今日重点：LiteRT 扩展 Google Tensor Conv3D 支持并增加加速器 delegation 统计；LiteRT Community 新增 Qwen3-4B-Thinking 与 SmolVLM2-2.2B 端侧包；Qualcomm OPUS-MT 与 Whisper Base 展示成熟 Snapdragon 手机 NPU 部署路径。</description>
     </item>
-
     <item>
       <title>AI 技术情报简报｜2026-08-15</title>
       <link>https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-15.md</link>
@@ -48,7 +54,6 @@
       <category>Audio</category>
       <description>今日重点：LiteRT-LM 开始直接接收 PCM 音频并补 NPU 同步执行；MNN 修复 Qwen2.5-Omni OpenCL 崩溃并优化 Metal Fused-Q4 speculative decode；LiteRT Community 新增 Qwen3-4B-Thinking Int4 与多款 Android 毫秒级视觉模型。</description>
     </item>
-
     <item>
       <title>AI 技术情报简报｜2026-08-14</title>
       <link>https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-14.md</link>
@@ -59,7 +64,6 @@
       <category>模型优化</category>
       <description>今日重点：LiteRT v2.2.0 正式发布并强化 GPU、QAIRT 与 NPU；GenieX v0.4.0 发布并修复 QAIRT/HTP/MTP 关键问题；LiteRT Community 新增 Qwen3.5-4B、Falcon-H1 与 Nemotron-H 端侧模型；MNN/llama.cpp 继续推进 Hexagon、Metal 低比特与多模态支持。</description>
     </item>
-
     <item>
       <title>AI 技术情报简报｜2026-08-13</title>
       <link>https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-13.md</link>
@@ -69,7 +73,6 @@
       <category>模型优化</category>
       <description>今日重点：LiteRT 的 Android 兼容性、低比特转换与加速器查询；LiteRT-LM EmbeddingEngine；MNN 的 DFlash、Qwen3-TTS 与 QNN，以及 llama.cpp Vulkan ternary 支持。</description>
     </item>
-
     <item>
       <title>AI 技术情报简报｜2026-08-12</title>
       <link>https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-12.md</link>
