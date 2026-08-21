@@ -5,8 +5,17 @@
     <link>https://github.com/haooxia/ai-tech-rss</link>
     <description>ChatGPT 每日生成的 AI 技术情报简报，聚焦 AI 模型、端侧推理、移动端部署与模型优化。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 20 Aug 2026 09:04:02 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 09:04:42 +0800</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/haooxia/ai-tech-rss/main/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI 技术情报简报｜2026-08-21</title>
+      <link>https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-21.md</link>
+      <guid isPermaLink="true">https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-21.md</guid>
+      <pubDate>Fri, 21 Aug 2026 09:04:42 +0800</pubDate>
+      <category>AI 行业热点</category>
+      <category>AI 基础设施</category>
+      <description>今日重点：Stripe 同意收购 OpenRouter，多模型路由与 token 成本优化正在成为基础设施级能力。</description>
+    </item>
     <item>
       <title>AI 技术情报简报｜2026-08-20</title>
       <link>https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-20.md</link>
