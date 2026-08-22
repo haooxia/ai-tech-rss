@@ -5,8 +5,18 @@
     <link>https://github.com/haooxia/ai-tech-rss</link>
     <description>ChatGPT 每日生成的 AI 技术情报简报，聚焦 AI 模型、端侧推理、移动端部署与模型优化。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 21 Aug 2026 09:04:42 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 09:06:48 +0800</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/haooxia/ai-tech-rss/main/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI 技术情报简报｜2026-08-22</title>
+      <link>https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-22.md</link>
+      <guid isPermaLink="true">https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-22.md</guid>
+      <pubDate>Sat, 22 Aug 2026 09:06:48 +0800</pubDate>
+      <category>模型与多模态</category>
+      <category>AI 行业热点</category>
+      <category>VLM</category>
+      <description>今日重点：SenseNova U1.5 Lite 正式版开源，强化复杂指令、图像编辑与原生 4K；Anthropic 将 Claude Mythos 5 扩展到 Claude Security 与合作伙伴防御工具。</description>
+    </item>
     <item>
       <title>AI 技术情报简报｜2026-08-21</title>
       <link>https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-21.md</link>
