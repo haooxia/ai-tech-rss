@@ -5,8 +5,18 @@
     <link>https://github.com/haooxia/ai-tech-rss</link>
     <description>ChatGPT 每日生成的 AI 技术情报简报，聚焦 AI 模型、端侧推理、移动端部署与模型优化。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 24 Aug 2026 09:45:50 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 09:34:00 +0800</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/haooxia/ai-tech-rss/main/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI 技术情报简报｜2026-08-25</title>
+      <link>https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-25.md</link>
+      <guid isPermaLink="true">https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-25.md</guid>
+      <pubDate>Tue, 25 Aug 2026 09:34:00 +0800</pubDate>
+      <category>端侧框架与运行时</category>
+      <category>AI 行业热点</category>
+      <category>NPU</category>
+      <description>今日重点：LiteRT Torch v0.9.4 正式发布并把实验性 BYOM NPU 导出推进到具体 Snapdragon 配置；OpenAI 将 GPT-5.6 接入 AWS Kiro 并报告 Terra 在 Terminal-Bench 2.1 上约 82% 成本下降；Thomson Reuters 正式发布自研专业 LLM Thomson。</description>
+    </item>
     <item>
       <title>AI 技术情报简报｜2026-08-24</title>
       <link>https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-24.md</link>
