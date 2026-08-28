@@ -5,17 +5,17 @@
     <link>https://github.com/haooxia/ai-tech-rss</link>
     <description>ChatGPT 每日生成的 AI 技术情报简报，聚焦 AI 模型、端侧推理、移动端部署与模型优化。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 28 Aug 2026 09:40:06 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 09:43:11 +0800</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/haooxia/ai-tech-rss/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>AI 技术情报简报｜2026-08-28</title>
       <link>https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-28.md</link>
       <guid isPermaLink="true">https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-28.md</guid>
-      <pubDate>Fri, 28 Aug 2026 09:40:06 +0800</pubDate>
+      <pubDate>Fri, 28 Aug 2026 09:43:11 +0800</pubDate>
+      <category>端侧框架与运行时</category>
       <category>翻译 / LiteRT-LM</category>
       <category>Speech / Diarization</category>
-      <category>AI Agent / MCP</category>
-      <description>今日重点：Tencent Hy-MT2-1.8B 出现首个 LiteRT-LM 端侧转换；NVIDIA 发布 100M 流式说话人分离模型；Anthropic 预览可通过 MCP 连接 AI Agent 与物理设备的 MHS。</description>
+      <description>今日重点：Granite 4.0-H 350M 在 Galaxy S26 / SM8850 上实现 LiteRT GPU 全图 delegation，但 decode 慢于 CPU；Tencent Hy-MT2-1.8B 出现首个 LiteRT-LM 端侧转换；NVIDIA 发布 100M 流式说话人分离模型；Anthropic 预览 MHS。</description>
     </item>
     <item>
       <title>AI 技术情报简报｜2026-08-27</title>
