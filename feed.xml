@@ -5,8 +5,18 @@
     <link>https://github.com/haooxia/ai-tech-rss</link>
     <description>ChatGPT 每日生成的 AI 技术情报简报，聚焦 AI 模型、端侧推理、移动端部署与模型优化。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 28 Aug 2026 09:43:11 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 09:02:27 +0800</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/haooxia/ai-tech-rss/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI 技术情报简报｜2026-08-29</title>
+      <link>https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-29.md</link>
+      <guid isPermaLink="true">https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-29.md</guid>
+      <pubDate>Sat, 29 Aug 2026 09:02:27 +0800</pubDate>
+      <category>模型与行业热点</category>
+      <category>端侧框架与运行时</category>
+      <category>AI Benchmark</category>
+      <description>今日重点：Tencent 发布 Hy4 preview，770B 总参数、49B 激活、1M 上下文；LiteRT Community 新增 Nanbeige4.2-3B 端侧包并完成 Galaxy S26 / SM8850 GPU 全图验证；Anthropic 发布 TASTE 研究判断 benchmark。EmbeddingGemma 的 SM8850 新测量仍在未合并社区 PR 中，暂不作为正式新闻。</description>
+    </item>
     <item>
       <title>AI 技术情报简报｜2026-08-28</title>
       <link>https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-28.md</link>
