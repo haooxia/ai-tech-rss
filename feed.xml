@@ -5,8 +5,18 @@
     <link>https://github.com/haooxia/ai-tech-rss</link>
     <description>ChatGPT 每日生成的 AI 技术情报简报，聚焦 AI 模型、端侧推理、移动端部署与模型优化。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 30 Aug 2026 09:05:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 09:05:00 +0800</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/haooxia/ai-tech-rss/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI 技术情报简报｜2026-08-31</title>
+      <link>https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-31.md</link>
+      <guid isPermaLink="true">https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-31.md</guid>
+      <pubDate>Mon, 31 Aug 2026 09:05:00 +0800</pubDate>
+      <category>端侧框架与运行时</category>
+      <category>Tokenizer / LiteRT-LM</category>
+      <category>Voice Agent / NVFP4</category>
+      <description>今日重点：LiteRT Community 批量替换多款 LiteRT-LM bundle 的 tokenizer，修复非 ASCII、emoji 与 special token 的真实输入错误；Pipecat 新发布 PhoneLLM Alpha 1 NVFP4，在 B200 上以 NVFP4 权重 + BF16 KV 几乎保持 BF16 PhoneBench 质量。</description>
+    </item>
     <item>
       <title>AI 技术情报简报｜2026-08-30</title>
       <link>https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-30.md</link>
