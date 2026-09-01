@@ -5,8 +5,18 @@
     <link>https://github.com/haooxia/ai-tech-rss</link>
     <description>ChatGPT 每日生成的 AI 技术情报简报，聚焦 AI 模型、端侧推理、移动端部署与模型优化。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 31 Aug 2026 09:05:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 09:09:00 +0800</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/haooxia/ai-tech-rss/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI 技术情报简报｜2026-09-01</title>
+      <link>https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-09-01.md</link>
+      <guid isPermaLink="true">https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-09-01.md</guid>
+      <pubDate>Tue, 01 Sep 2026 09:09:00 +0800</pubDate>
+      <category>端侧模型 / LiteRT-LM</category>
+      <category>Embedding / 检索</category>
+      <category>AI 行业热点</category>
+      <description>今日重点：1. Granite 4.2-3B 新增 LiteRT-LM 端侧包并在 Galaxy S26 / SM8850 GPU 全图运行；2. Harrier 0.6B 新增 LiteRT 端侧 Embedding 转换；3. Tencent 发布 ContextPilot 8B/14B/E4B。</description>
+    </item>
     <item>
       <title>AI 技术情报简报｜2026-08-31</title>
       <link>https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-31.md</link>
