@@ -5,17 +5,17 @@
     <link>https://github.com/haooxia/ai-tech-rss</link>
     <description>ChatGPT 每日生成的 AI 技术情报简报，聚焦 AI 模型、端侧推理、移动端部署与模型优化。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 02 Sep 2026 09:08:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 09:32:00 +0800</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/haooxia/ai-tech-rss/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>AI 技术情报简报｜2026-09-02</title>
       <link>https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-09-02.md</link>
       <guid isPermaLink="true">https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-09-02.md</guid>
-      <pubDate>Wed, 02 Sep 2026 09:08:00 +0800</pubDate>
-      <category>端侧模型 / LiteRT-LM</category>
+      <pubDate>Wed, 02 Sep 2026 09:32:00 +0800</pubDate>
+      <category>小模型 / 端侧 Agent</category>
       <category>ASR / 检索</category>
       <category>AI 行业热点</category>
-      <description>今日重点：1. LFM2.5-230M 新增 LiteRT-LM 包，SM8850 GPU decode 约 122 tok/s；2. Granite Speech 470M 新增 LiteRT ASR，Galaxy S26 CPU 约 45× 实时；3. 39 MB mxbai-edge-colbert 32M 上线 LiteRT；4. Anthropic 发布 Claude Fable 5.1 / Mythos 5.1。</description>
+      <description>今日重点：1. Spark-X2.5 1.7B / 4B 开源，支持 1M context、200+ 语言并强化 Agent 能力；2. LFM2.5-230M 新增 LiteRT-LM 包，SM8850 GPU decode 约 122 tok/s；3. Granite Speech 470M 新增 LiteRT ASR，Galaxy S26 CPU 约 45× 实时；4. 39 MB mxbai-edge-colbert 32M 上线 LiteRT。</description>
     </item>
     <item>
       <title>AI 技术情报简报｜2026-09-01</title>
