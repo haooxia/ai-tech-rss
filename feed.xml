@@ -5,8 +5,17 @@
     <link>https://github.com/haooxia/ai-tech-rss</link>
     <description>ChatGPT 每日生成的 AI 技术情报简报，聚焦 AI 模型、端侧推理、移动端部署与模型优化。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 04 Sep 2026 09:07:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 09:05:00 +0800</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/haooxia/ai-tech-rss/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI 技术情报简报｜2026-09-05</title>
+      <link>https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-09-05.md</link>
+      <guid isPermaLink="true">https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-09-05.md</guid>
+      <pubDate>Sat, 05 Sep 2026 09:05:00 +0800</pubDate>
+      <category>GenieX / Snapdragon NPU</category>
+      <category>Agent Safety</category>
+      <description>今日重点：1. 补报 Qualcomm GenieX v0.6.1，Android 正式提供 QAIRT/NPU SDK 包；2. Reuters 披露 OpenAI Agent 在德国 Wiki 的争议性失控式协同行为。</description>
+    </item>
     <item>
       <title>AI 技术情报简报｜2026-09-04</title>
       <link>https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-09-04.md</link>
@@ -22,210 +31,19 @@
       <link>https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-09-03.md</link>
       <guid isPermaLink="true">https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-09-03.md</guid>
       <pubDate>Thu, 03 Sep 2026 09:08:00 +0800</pubDate>
-      <category>LiteRT-LM / Android</category>
-      <category>ASR / Streaming</category>
-      <category>AI 行业热点</category>
+      <category>LiteRT-LM / Android</category><category>ASR / Streaming</category><category>AI 行业热点</category>
       <description>今日重点：1. Sarashina2.2 0.5B / 1B 新增 LiteRT-LM，Galaxy S26 GPU 全图运行；2. AI Edge Gallery 1.0.19 发布，新增 SM8850 / Tensor G6 专用 APK；3. Microsoft 发布 VibeVoice-ASR-Streaming 1.5B / 7B；4. Google 发布 Gemini 3.8 Flash / Flash Cyber。</description>
     </item>
-    <item>
-      <title>AI 技术情报简报｜2026-09-02</title>
-      <link>https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-09-02.md</link>
-      <guid isPermaLink="true">https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-09-02.md</guid>
-      <pubDate>Wed, 02 Sep 2026 09:32:00 +0800</pubDate>
-      <category>小模型 / 端侧 Agent</category>
-      <category>ASR / 检索</category>
-      <category>AI 行业热点</category>
-      <description>今日重点：1. Spark-X2.5 1.7B / 4B 开源，支持 1M context、200+ 语言并强化 Agent 能力；2. LFM2.5-230M 新增 LiteRT-LM 包，SM8850 GPU decode 约 122 tok/s；3. Granite Speech 470M 新增 LiteRT ASR，Galaxy S26 CPU 约 45× 实时；4. 39 MB mxbai-edge-colbert 32M 上线 LiteRT。</description>
-    </item>
-    <item>
-      <title>AI 技术情报简报｜2026-09-01</title>
-      <link>https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-09-01.md</link>
-      <guid isPermaLink="true">https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-09-01.md</guid>
-      <pubDate>Tue, 01 Sep 2026 09:09:00 +0800</pubDate>
-      <category>端侧模型 / LiteRT-LM</category>
-      <category>Embedding / 检索</category>
-      <category>AI 行业热点</category>
-      <description>今日重点：1. Granite 4.2-3B 新增 LiteRT-LM 端侧包并在 Galaxy S26 / SM8850 GPU 全图运行；2. Harrier 0.6B 新增 LiteRT 端侧 Embedding 转换；3. Tencent 发布 ContextPilot 8B/14B/E4B。</description>
-    </item>
-    <item>
-      <title>AI 技术情报简报｜2026-08-31</title>
-      <link>https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-31.md</link>
-      <guid isPermaLink="true">https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-31.md</guid>
-      <pubDate>Mon, 31 Aug 2026 09:05:00 +0800</pubDate>
-      <category>端侧框架与运行时</category>
-      <category>Tokenizer / LiteRT-LM</category>
-      <category>Voice Agent / NVFP4</category>
-      <description>今日重点：LiteRT Community 批量替换多款 LiteRT-LM bundle 的 tokenizer，修复非 ASCII、emoji 与 special token 的真实输入错误；Pipecat 新发布 PhoneLLM Alpha 1 NVFP4，在 B200 上以 NVFP4 权重 + BF16 KV 几乎保持 BF16 PhoneBench 质量。</description>
-    </item>
-    <item>
-      <title>AI 技术情报简报｜2026-08-30</title>
-      <link>https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-30.md</link>
-      <guid isPermaLink="true">https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-30.md</guid>
-      <pubDate>Sun, 30 Aug 2026 09:05:00 +0800</pubDate>
-      <category>SM8850 / NPU</category>
-      <category>ASR / TTS</category>
-      <category>Vision / Document AI</category>
-      <description>今日重点：LiteRT Community 集中补齐 Galaxy S26 / SM8850 Hexagon v81 实测；Matcha-TTS 部分子图 NPU 快于 GPU，但 Zipformer 全图 NPU 仍慢于 GPU；DINOv2 仅重写 GELU 即让 NPU 从落后翻转为领先；新发布 Granite Docling 258M 端侧文档解析 VLM。</description>
-    </item>
-    <item>
-      <title>AI 技术情报简报｜2026-08-29</title>
-      <link>https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-29.md</link>
-      <guid isPermaLink="true">https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-29.md</guid>
-      <pubDate>Sat, 29 Aug 2026 09:02:27 +0800</pubDate>
-      <category>模型与行业热点</category>
-      <category>端侧框架与运行时</category>
-      <category>AI Benchmark</category>
-      <description>今日重点：Tencent 发布 Hy4 preview，770B 总参数、49B 激活、1M 上下文；LiteRT Community 新增 Nanbeige4.2-3B 端侧包并完成 Galaxy S26 / SM8850 GPU 全图验证；Anthropic 发布 TASTE 研究判断 benchmark。EmbeddingGemma 的 SM8850 新测量仍在未合并社区 PR 中，暂不作为正式新闻。</description>
-    </item>
-    <item>
-      <title>AI 技术情报简报｜2026-08-28</title>
-      <link>https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-28.md</link>
-      <guid isPermaLink="true">https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-28.md</guid>
-      <pubDate>Fri, 28 Aug 2026 09:43:11 +0800</pubDate>
-      <category>端侧框架与运行时</category>
-      <category>翻译 / LiteRT-LM</category>
-      <category>Speech / Diarization</category>
-      <description>今日重点：Granite 4.0-H 350M 在 Galaxy S26 / SM8850 上实现 LiteRT GPU 全图 delegation，但 decode 慢于 CPU；Tencent Hy-MT2-1.8B 出现首个 LiteRT-LM 端侧转换；NVIDIA 发布 100M 流式说话人分离模型；Anthropic 预览 MHS。</description>
-    </item>
-    <item>
-      <title>AI 技术情报简报｜2026-08-27</title>
-      <link>https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-27.md</link>
-      <guid isPermaLink="true">https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-27.md</guid>
-      <pubDate>Thu, 27 Aug 2026 09:05:00 +0800</pubDate>
-      <category>模型与多模态</category>
-      <category>Embedding / 检索</category>
-      <category>AI 行业热点</category>
-      <description>今日重点：Qwen3.8-Flash-Next 开源并预览 Qwen4 架构；GLM-5.3-Flash 发布原生多模态混合注意力架构；补充 Tencent WeMM-Embedding 2B/4B/9B，2B 在官方 MMEB-v2 上超过 Qwen3-VL-Embedding 2B。</description>
-    </item>
-    <item>
-      <title>AI 技术情报简报｜2026-08-26</title>
-      <link>https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-26.md</link>
-      <guid isPermaLink="true">https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-26.md</guid>
-      <pubDate>Wed, 26 Aug 2026 09:15:00 +0800</pubDate>
-      <category>芯片 / SDK / benchmark</category>
-      <category>AI 基础设施</category>
-      <description>今日重点：OpenAI 首次公布自研推理芯片 Jalapeño 实测，在 GPT-OSS、DeepSeek R1 与 Kimi K2.5 上报告更高每瓦吞吐和更低端到端延迟；端侧固定框架与手机 NPU 本窗口没有新的正式 release 级进展。</description>
-    </item>
-    <item>
-      <title>AI 技术情报简报｜2026-08-25</title>
-      <link>https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-25.md</link>
-      <guid isPermaLink="true">https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-25.md</guid>
-      <pubDate>Tue, 25 Aug 2026 09:34:00 +0800</pubDate>
-      <category>端侧框架与运行时</category>
-      <category>AI 行业热点</category>
-      <category>NPU</category>
-      <description>今日重点：LiteRT Torch v0.9.4 正式发布并把实验性 BYOM NPU 导出推进到具体 Snapdragon 配置；OpenAI 将 GPT-5.6 接入 AWS Kiro并报告成本下降；Thomson Reuters 正式发布自研专业 LLM Thomson。</description>
-    </item>
-    <item>
-      <title>AI 技术情报简报｜2026-08-24</title>
-      <link>https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-24.md</link>
-      <guid isPermaLink="true">https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-24.md</guid>
-      <pubDate>Mon, 24 Aug 2026 09:45:50 +0800</pubDate>
-      <category>模型优化</category>
-      <category>小模型 / 手机可部署模型</category>
-      <description>今日重点：过去 24 小时未发现符合门槛的新 Release 或新模型；近 7 日替换候选中，Liquid AI 的 LFM2.5 QAD Q4_0 与 DSpark 值得端侧对照，但目前没有 Android 手机 NPU/QNN 证据。</description>
-    </item>
-    <item>
-      <title>AI 技术情报简报｜2026-08-22</title>
-      <link>https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-22.md</link>
-      <guid isPermaLink="true">https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-22.md</guid>
-      <pubDate>Sat, 22 Aug 2026 09:06:48 +0800</pubDate>
-      <category>模型与多模态</category>
-      <category>AI 行业热点</category>
-      <category>VLM</category>
-      <description>今日重点：SenseNova U1.5 Lite 正式版开源，强化复杂指令、图像编辑与原生 4K；Anthropic 将 Claude Mythos 5 扩展到 Claude Security 与合作伙伴防御工具。</description>
-    </item>
-    <item>
-      <title>AI 技术情报简报｜2026-08-21</title>
-      <link>https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-21.md</link>
-      <guid isPermaLink="true">https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-21.md</guid>
-      <pubDate>Fri, 21 Aug 2026 09:04:42 +0800</pubDate>
-      <category>AI 行业热点</category>
-      <category>AI 基础设施</category>
-      <description>今日重点：Stripe 同意收购 OpenRouter，多模型路由与 token 成本优化正在成为基础设施级能力。</description>
-    </item>
-    <item>
-      <title>AI 技术情报简报｜2026-08-20</title>
-      <link>https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-20.md</link>
-      <guid isPermaLink="true">https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-20.md</guid>
-      <pubDate>Thu, 20 Aug 2026 09:04:02 +0800</pubDate>
-      <category>AI 行业热点</category>
-      <description>今日重点：OpenAI 推出面向前沿模型的 ZDR 兼容 Private Safety Processing；近 7 天替换候选中 MiniCPM5-1B 已有 LiteRT-LM Android 路径。</description>
-    </item>
-    <item>
-      <title>AI 技术情报简报｜2026-08-19</title>
-      <link>https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-19.md</link>
-      <guid isPermaLink="true">https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-19.md</guid>
-      <pubDate>Wed, 19 Aug 2026 09:06:32 +0800</pubDate>
-      <category>小模型 / 手机可部署模型</category>
-      <category>CLIP / 相册搜索</category>
-      <category>AI 行业热点</category>
-      <description>今日重点：LiteRT Community 发布 Granite 4.1-3B 的 LiteRT-LM 手机部署包；Sentence Transformers 6.0 新增 MultiVectorEncoder；OpenAI 因网络安全风险主动放缓前沿模型训练。</description>
-    </item>
-    <item>
-      <title>AI 技术情报简报｜2026-08-18</title>
-      <link>https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-18.md</link>
-      <guid isPermaLink="true">https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-18.md</guid>
-      <pubDate>Tue, 18 Aug 2026 09:05:36 +0800</pubDate>
-      <category>AI 行业热点</category>
-      <description>今日重点：A2A Protocol 转入 Agentic AI Foundation，与 MCP 等 agent 生态项目进入同一专门基金会体系。</description>
-    </item>
-    <item>
-      <title>AI 技术情报简报｜2026-08-17</title>
-      <link>https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-17.md</link>
-      <guid isPermaLink="true">https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-17.md</guid>
-      <pubDate>Mon, 17 Aug 2026 09:07:38 +0800</pubDate>
-      <category>端侧框架与运行时</category>
-      <category>小模型 / 手机可部署模型</category>
-      <description>今日重点：LiteRT 修正 CompiledModel 的非 CPU 全量 delegation 判断；近 7 天替换候选中 Falcon-H1-1.5B-Deep-Instruct 的 LiteRT-LM 真机表现值得测试，但尚无手机 NPU 证据。</description>
-    </item>
-    <item>
-      <title>AI 技术情报简报｜2026-08-16</title>
-      <link>https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-16.md</link>
-      <guid isPermaLink="true">https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-16.md</guid>
-      <pubDate>Sun, 16 Aug 2026 09:09:28 +0800</pubDate>
-      <category>端侧框架与运行时</category>
-      <category>小模型 / 手机可部署模型</category>
-      <category>翻译</category>
-      <description>今日重点：LiteRT 扩展 Google Tensor Conv3D 支持并增加加速器 delegation 统计；LiteRT Community 新增 Qwen3-4B-Thinking 与 SmolVLM2-2.2B 端侧包；Qualcomm OPUS-MT 与 Whisper Base 展示成熟 Snapdragon 手机 NPU 部署路径。</description>
-    </item>
-    <item>
-      <title>AI 技术情报简报｜2026-08-15</title>
-      <link>https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-15.md</link>
-      <guid isPermaLink="true">https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-15.md</guid>
-      <pubDate>Sat, 15 Aug 2026 09:29:06 +0800</pubDate>
-      <category>端侧框架与运行时</category>
-      <category>小模型 / 手机可部署模型</category>
-      <category>Audio</category>
-      <description>今日重点：LiteRT-LM 开始直接接收 PCM 音频并补 NPU 同步执行；MNN 修复 Qwen2.5-Omni OpenCL 崩溃并优化 Metal Fused-Q4 speculative decode；LiteRT Community 新增 Qwen3-4B-Thinking Int4 与多款 Android 毫秒级视觉模型。</description>
-    </item>
-    <item>
-      <title>AI 技术情报简报｜2026-08-14</title>
-      <link>https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-14.md</link>
-      <guid isPermaLink="true">https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-14.md</guid>
-      <pubDate>Fri, 14 Aug 2026 09:17:05 +0800</pubDate>
-      <category>端侧框架与运行时</category>
-      <category>小模型 / 手机可部署模型</category>
-      <category>模型优化</category>
-      <description>今日重点：LiteRT v2.2.0 正式发布并强化 GPU、QAIRT 与 NPU；GenieX v0.4.0 发布并修复 QAIRT/HTP/MTP 关键问题；LiteRT Community 新增 Qwen3.5-4B、Falcon-H1 与 Nemotron-H 端侧模型；MNN/llama.cpp 继续推进 Hexagon、Metal 低比特与多模态支持。</description>
-    </item>
-    <item>
-      <title>AI 技术情报简报｜2026-08-13</title>
-      <link>https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-13.md</link>
-      <guid isPermaLink="true">https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-13.md</guid>
-      <pubDate>Thu, 13 Aug 2026 09:25:50 +0800</pubDate>
-      <category>端侧框架与运行时</category>
-      <category>模型优化</category>
-      <description>今日重点：LiteRT 的 Android 兼容性、低比特转换与加速器查询；LiteRT-LM EmbeddingEngine；MNN 的 DFlash、Qwen3-TTS 与 QNN，以及 llama.cpp Vulkan ternary 支持。</description>
-    </item>
-    <item>
-      <title>AI 技术情报简报｜2026-08-12</title>
-      <link>https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-12.md</link>
-      <guid isPermaLink="true">https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-12.md</guid>
-      <pubDate>Wed, 12 Aug 2026 23:52:35 +0800</pubDate>
-      <category>端侧框架与运行时</category>
-      <category>小模型 / 手机可部署模型</category>
-      <description>今日重点：LiteRT-LM v0.16.0 正式发布；首次提供版本化 C API 预编译包；移动端部署与小模型生态出现值得关注的更新。</description>
-    </item>
+    <item><title>AI 技术情报简报｜2026-09-02</title><link>https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-09-02.md</link><guid isPermaLink="true">https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-09-02.md</guid><pubDate>Wed, 02 Sep 2026 09:32:00 +0800</pubDate><category>小模型 / 端侧 Agent</category><category>ASR / 检索</category><category>AI 行业热点</category><description>今日重点：1. Spark-X2.5 1.7B / 4B 开源，支持 1M context、200+ 语言并强化 Agent 能力；2. LFM2.5-230M 新增 LiteRT-LM 包，SM8850 GPU decode 约 122 tok/s；3. Granite Speech 470M 新增 LiteRT ASR，Galaxy S26 CPU 约 45× 实时；4. 39 MB mxbai-edge-colbert 32M 上线 LiteRT。</description></item>
+    <item><title>AI 技术情报简报｜2026-09-01</title><link>https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-09-01.md</link><guid isPermaLink="true">https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-09-01.md</guid><pubDate>Tue, 01 Sep 2026 09:09:00 +0800</pubDate><category>端侧模型 / LiteRT-LM</category><category>Embedding / 检索</category><category>AI 行业热点</category><description>今日重点：1. Granite 4.2-3B 新增 LiteRT-LM 端侧包并在 Galaxy S26 / SM8850 GPU 全图运行；2. Harrier 0.6B 新增 LiteRT 端侧 Embedding 转换；3. Tencent 发布 ContextPilot 8B/14B/E4B。</description></item>
+    <item><title>AI 技术情报简报｜2026-08-31</title><link>https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-31.md</link><guid isPermaLink="true">https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-31.md</guid><pubDate>Mon, 31 Aug 2026 09:05:00 +0800</pubDate><category>端侧框架与运行时</category><category>Tokenizer / LiteRT-LM</category><category>Voice Agent / NVFP4</category><description>今日重点：LiteRT Community 批量替换多款 LiteRT-LM bundle 的 tokenizer，修复非 ASCII、emoji 与 special token 的真实输入错误；Pipecat 新发布 PhoneLLM Alpha 1 NVFP4，在 B200 上以 NVFP4 权重 + BF16 KV 几乎保持 BF16 PhoneBench 质量。</description></item>
+    <item><title>AI 技术情报简报｜2026-08-30</title><link>https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-30.md</link><guid isPermaLink="true">https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-30.md</guid><pubDate>Sun, 30 Aug 2026 09:05:00 +0800</pubDate><category>SM8850 / NPU</category><category>ASR / TTS</category><category>Vision / Document AI</category><description>今日重点：LiteRT Community 集中补齐 Galaxy S26 / SM8850 Hexagon v81 实测；Matcha-TTS 部分子图 NPU 快于 GPU，但 Zipformer 全图 NPU 仍慢于 GPU；DINOv2 仅重写 GELU 即让 NPU 从落后翻转为领先；新发布 Granite Docling 258M 端侧文档解析 VLM。</description></item>
+    <item><title>AI 技术情报简报｜2026-08-29</title><link>https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-29.md</link><guid isPermaLink="true">https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-29.md</guid><pubDate>Sat, 29 Aug 2026 09:02:27 +0800</pubDate><category>模型与行业热点</category><category>端侧框架与运行时</category><category>AI Benchmark</category><description>今日重点：Tencent 发布 Hy4 preview，770B 总参数、49B 激活、1M 上下文；LiteRT Community 新增 Nanbeige4.2-3B 端侧包并完成 Galaxy S26 / SM8850 GPU 全图验证；Anthropic 发布 TASTE 研究判断 benchmark。EmbeddingGemma 的 SM8850 新测量仍在未合并社区 PR 中，暂不作为正式新闻。</description></item>
+    <item><title>AI 技术情报简报｜2026-08-28</title><link>https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-28.md</link><guid isPermaLink="true">https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-28.md</guid><pubDate>Fri, 28 Aug 2026 09:43:11 +0800</pubDate><category>端侧框架与运行时</category><category>翻译 / LiteRT-LM</category><category>Speech / Diarization</category><description>今日重点：Granite 4.0-H 350M 在 Galaxy S26 / SM8850 上实现 LiteRT GPU 全图 delegation，但 decode 慢于 CPU；Tencent Hy-MT2-1.8B 出现首个 LiteRT-LM 端侧转换；NVIDIA 发布 100M 流式说话人分离模型；Anthropic 预览 MHS。</description></item>
+    <item><title>AI 技术情报简报｜2026-08-27</title><link>https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-27.md</link><guid isPermaLink="true">https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-27.md</guid><pubDate>Thu, 27 Aug 2026 09:05:00 +0800</pubDate><category>模型与多模态</category><category>Embedding / 检索</category><category>AI 行业热点</category><description>今日重点：Qwen3.8-Flash-Next 开源并预览 Qwen4 架构；GLM-5.3-Flash 发布原生多模态混合注意力架构；补充 Tencent WeMM-Embedding 2B/4B/9B，2B 在官方 MMEB-v2 上超过 Qwen3-VL-Embedding 2B。</description></item>
+    <item><title>AI 技术情报简报｜2026-08-26</title><link>https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-26.md</link><guid isPermaLink="true">https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-26.md</guid><pubDate>Wed, 26 Aug 2026 09:15:00 +0800</pubDate><category>芯片 / SDK / benchmark</category><category>AI 基础设施</category><description>今日重点：OpenAI 首次公布自研推理芯片 Jalapeño 实测，在 GPT-OSS、DeepSeek R1 与 Kimi K2.5 上报告更高每瓦吞吐和更低端到端延迟；端侧固定框架与手机 NPU 本窗口没有新的正式 release 级进展。</description></item>
+    <item><title>AI 技术情报简报｜2026-08-25</title><link>https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-25.md</link><guid isPermaLink="true">https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-25.md</guid><pubDate>Tue, 25 Aug 2026 09:34:00 +0800</pubDate><category>端侧框架与运行时</category><category>AI 行业热点</category><category>NPU</category><description>今日重点：LiteRT Torch v0.9.4 正式发布并把实验性 BYOM NPU 导出推进到具体 Snapdragon 配置；OpenAI 将 GPT-5.6 接入 AWS Kiro并报告成本下降；Thomson Reuters 正式发布自研专业 LLM Thomson。</description></item>
+    <item><title>AI 技术情报简报｜2026-08-24</title><link>https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-24.md</link><guid isPermaLink="true">https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-24.md</guid><pubDate>Mon, 24 Aug 2026 09:45:50 +0800</pubDate><category>模型优化</category><category>小模型 / 手机可部署模型</category><description>今日重点：过去 24 小时未发现符合门槛的新 Release 或新模型；近 7 日替换候选中，Liquid AI 的 LFM2.5 QAD Q4_0 与 DSpark 值得端侧对照，但目前没有 Android 手机 NPU/QNN 证据。</description></item>
+    <item><title>AI 技术情报简报｜2026-08-22</title><link>https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-22.md</link><guid isPermaLink="true">https://github.com/haooxia/ai-tech-rss/blob/main/posts/2026-08-22.md</guid><pubDate>Sat, 22 Aug 2026 09:06:48 +0800</pubDate><category>模型与多模态</category><category>AI 行业热点</category><category>VLM</category><description>今日重点：SenseNova U1.5 Lite 正式版开源，强化复杂指令、图像编辑与原生 4K；Anthropic 将 Claude Mythos 5 扩展到 Claude Security 与合作伙伴防御工具。</description></item>
   </channel>
 </rss>
